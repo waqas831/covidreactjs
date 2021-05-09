@@ -1,0 +1,13 @@
+.table{
+    margin-top: 20px;overflow: scroll;height:400px;
+    background-color: white;
+}
+.wel tr{
+    display: flex;justify-content: space-between;
+}
+.wel td{
+    padding:0.5rem;
+}
+.wel tr:nth-of-type(odd){
+    background-color:#f3f3f8;
+}
